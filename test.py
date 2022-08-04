@@ -11,7 +11,6 @@ def ss(x):
     sum += sqr
   return(sum)
 
-print("Sum of squares")
 print('Enter a number')
 x = input()
 print(ss(x))
